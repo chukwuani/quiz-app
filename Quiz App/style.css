@@ -30,6 +30,7 @@
     min-height: 100vh;
     background-color: var(--Magnolia);
     padding: 30px;
+    overflow-x: hidden;
 }
 
 .container{
